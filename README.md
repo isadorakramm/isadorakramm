@@ -1,11 +1,11 @@
 # Oiê, eu sou a Isa! ✨ 
 
 <div style="display: flex; align-items: center; gap: 20px;">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c88962be-8bdf-43bb-8f43-a7602e720a37/d52ctte-1c571f2b-82d2-4e9b-ba6b-d9791e95a2c7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4ODk2MmJlLThiZGYtNDNiYi04ZjQzLWE3NjAyZTcyMGEzN1wvZDUyY3R0ZS0xYzU3MWYyYi04MmQyLTRlOWItYmE2Yi1kOTc5MWU5NWEyYzcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ku9A3ws2XQgq3f0jA7xo-oQ9eV3CZmU7Bna8lHb5HlQ" width="20%">
   <div style="flex: 1;">
     Meu nome é Isadora Mietlicki Kramm, tenho 17 anos e sou de Porto Alegre. Estou no 3° ano do ensino médio no Senac Distrito Criativo com curso integrado de técnico em Informática para Internet.
     Gosto de explorar diferentes tecnologias! Estou sempre buscando me desafiar e aprimorar as minhas habilidades. Além da base teórica, também tenho bastante experiência prática com microcontroladores, banco de dados, automação e interfaces web.
   </div>
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c88962be-8bdf-43bb-8f43-a7602e720a37/d52ctte-1c571f2b-82d2-4e9b-ba6b-d9791e95a2c7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4ODk2MmJlLThiZGYtNDNiYi04ZjQzLWE3NjAyZTcyMGEzN1wvZDUyY3R0ZS0xYzU3MWYyYi04MmQyLTRlOWItYmE2Yi1kOTc5MWU5NWEyYzcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ku9A3ws2XQgq3f0jA7xo-oQ9eV3CZmU7Bna8lHb5HlQ" width="20%">
 </div>
 
 ---
