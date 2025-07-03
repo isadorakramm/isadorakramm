@@ -38,8 +38,7 @@ Gosto de explorar diferentes tecnologias! Estou sempre buscando me desafiar e ap
           
 ## 📫 Fale comigo!
 **📧 Email:** isadorakramm24@gmail.com  
-<i class="devicon-github-original"></i>
-**GitHub:** [@isadorakramm](https://github.com/isadorakramm)
+**💼 Linkedin:** [Isadora Kramm](https://www.linkedin.com/in/isadora-kramm-716b85372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
