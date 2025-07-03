@@ -1,6 +1,6 @@
 # Oiê, eu sou a Isa! ✨ 
 
-Meu nome é Isadora Mietlicki Kramm, tenho 17 anos e sou de Porto Alegre. Estou no 3° ano do ensino médio no Senac Distrito Criativo com curso técnico em Informática para Internet integrado.
+Meu nome é Isadora Mietlicki Kramm, tenho 17 anos e sou de Porto Alegre. Estou no 3° ano do ensino médio no Senac Distrito Criativo com curso técnico em Informática para Internet integrado.<br>
 Gosto de explorar diferentes tecnologias! Estou sempre buscando me desafiar e aprimorar as minhas habilidades. Além da base teórica, também tenho bastante experiência prática com microcontroladores, banco de dados, automação e interfaces web.
 
 ---
