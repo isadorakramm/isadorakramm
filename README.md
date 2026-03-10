@@ -30,6 +30,7 @@ Gosto de explorar diferentes tecnologias! Estou sempre buscando me desafiar e ap
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LINUX: FEDORA](https://img.shields.io/badge/LINUX-Fedora-blue?style=for-the-badge&logo=Fedora)
 
 ---
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
